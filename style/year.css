@@ -2,6 +2,8 @@
     background-image: url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
     background-repeat: no-repeat;
     background-position: center;
+    width: 1320px;
+    height: 600px;
 }
 .bannar{
     color: #FFF;
@@ -10,12 +12,41 @@ font-family: Merriweather;
 font-size: 72px;
 font-style: normal;
 font-weight: 900;
-line-height: 95px; /* 131.944% */
+line-height: 95px;
+
 }
 div{
-    width: 1320px;
-height: 600px;
 flex-shrink: 0;
 border-radius: 16px;
 background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.container{
+    text-align: center;
+    font-style: normal;
+    line-height: normal;
+}
+.text{
+    color:#F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+.text-container{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 500;
+#img{
+    width: 800.9px;
+    height: 500px;
+}
+.contain{
+    color:#070211;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Inter;
+}
+.image2{
+background-image:url(../B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+background-repeat: no-repeat;
+background-position: center;
 }
