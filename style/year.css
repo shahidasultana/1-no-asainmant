@@ -25,6 +25,7 @@ background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     font-style: normal;
     line-height: normal;
 }
+/* text style */
 .text{
     color:#F00;
     font-family: Inter;
@@ -39,6 +40,7 @@ background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     width: 800.9px;
     height: 500px;
 }
+/*bannar releted style */
 .contain{
     color:#070211;
     font-size: 48px;
@@ -81,10 +83,11 @@ line-height: 88px; /* 137.5% */
 letter-spacing: 7.04px;
 
 }
-.main-title{
-    padding-left: 126px;
-    text-align:center;
-    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+.bannar-container{
+    background-image: url("../resources/Vectorrr.png");
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 .contant{
     text-align: center;
